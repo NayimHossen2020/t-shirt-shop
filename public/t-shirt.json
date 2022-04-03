@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "2",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "3",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "4",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "5",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "6",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "7",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "8",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "9",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "10",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "11",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    },
+    {
+        "id": "12",
+        "img": "https://static-01.daraz.com.bd/p/7333dcca65bcd0469843b0d7a29d77db.jpg",
+        "price": "200",
+        "gender": "male"
+    }
+]
