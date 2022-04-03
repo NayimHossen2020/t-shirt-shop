@@ -4,9 +4,8 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div>
+        <div className='header'>
             <Navigation></Navigation>
-            <h1>This is header component</h1>
         </div>
     );
 };
