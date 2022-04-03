@@ -9,8 +9,14 @@ const Home = () => {
     const [cart, setCart] = useState([]);
 
     const addToCart = (selectedItem) => {
-        const newCart = [...cart, selectedItem];
-        setCart(newCart);
+        const exists = cart.find(shirt => shirt.id === selectedItem.id);
+
+        if (!exists) {
+            const newCart = [...cart, selectedItem];
+            setCart(newCart);
+        } else {
+            alert('item already exists')
+        }
     };
 
     const removeItem = (removed) => {
