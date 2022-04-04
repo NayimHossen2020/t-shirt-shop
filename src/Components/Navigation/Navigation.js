@@ -14,6 +14,7 @@ const Navigation = () => {
                         <Nav className="ms-auto">
                             <Link className='link-style' to="/home">Home</Link>
                             <Link className='link-style' to="/review">Review</Link>
+                            <Link className='link-style' to="/grandpa">GrandPa</Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
